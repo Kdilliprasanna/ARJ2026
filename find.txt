@@ -1,0 +1,26 @@
+ Volume in drive C is ACER
+ Volume Serial Number is 9467-634A
+
+ Directory of C:\Users\Prasanna\OneDrive\Documents\web_mobile_application\ARJ2026\app\src\api
+
+23-08-2026  11:29             8,468 client.js
+               1 File(s)          8,468 bytes
+
+ Directory of C:\Users\Prasanna\OneDrive\Documents\web_mobile_application\ARJ2026\node_modules\@expo\cli\build\src\api\graphql
+
+23-08-2026  23:57             8,376 client.js
+               1 File(s)          8,376 bytes
+
+ Directory of C:\Users\Prasanna\OneDrive\Documents\web_mobile_application\ARJ2026\node_modules\@expo\cli\build\src\api\rest
+
+23-08-2026  23:57             7,396 client.js
+               1 File(s)          7,396 bytes
+
+ Directory of C:\Users\Prasanna\OneDrive\Documents\web_mobile_application\ARJ2026\node_modules\react-dom
+
+23-08-2026  23:57             1,373 client.js
+               1 File(s)          1,373 bytes
+
+     Total Files Listed:
+               4 File(s)         25,613 bytes
+               0 Dir(s)  148,757,487,616 bytes free
